@@ -1,5 +1,2 @@
 dev
-hello world
-hello git
 hello dev
-hello dev5
